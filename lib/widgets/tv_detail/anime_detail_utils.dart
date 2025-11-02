@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:miko/utils/utils.dart';
 
-import 'person_detail_page.dart';
+import '../../showcases/person_detail_page.dart';
 
 /// Utility class for anime/TV show detail pages
 class AnimeDetailUtils {
